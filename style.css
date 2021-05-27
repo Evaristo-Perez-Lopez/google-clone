@@ -51,7 +51,7 @@ a {
   color: rgb(0, 0, 0);
 }
 .header-nav-buttons .sign-in {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 1.4rem;
   color: white;
   border: none;
@@ -131,7 +131,7 @@ form {
 .search label[for="search"]:hover {
   box-shadow: 2px 2px rgb(228, 228, 228), -2px -1px rgb(228, 228, 228),
     -1px 1px rgb(228, 228, 228), 1px -1px rgb(228, 228, 228);
-    border: transparent 1px solid;
+  border: transparent 1px solid;
 }
 
 .search .featured {
